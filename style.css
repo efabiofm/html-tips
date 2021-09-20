@@ -1,0 +1,30 @@
+p {
+  margin-top: .5em;
+  line-height: 1.5;
+}
+
+*:not(pre) {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444;
+}
+
+body {
+  padding: .5em 1em;
+}
+
+summary,
+li,
+meter {
+  margin-bottom: .5em;
+}
+
+meter,
+#volume,
+#search,
+#control {
+  width: 50%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 0 0 .5em 0;
+}
